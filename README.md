@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Translation-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GT4T Free Installer** — GT4T (Google Translate for Translators) is a Windows translation tool that integrates translation memories, terminology management, and machine translation into any application via a global hotkey. Works without internet access, no account required. Full offline installation.
+**💻 GT4T Free Installer** — GT4T (Google Translate For Translators) is a translation assistance tool for Windows and macOS that inserts machine translations directly into any application. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About GT4T
 
-GT4T (Google Translate for Translators) is a Windows translation tool that integrates translation memories, terminology management, and machine translation into any application via a global hotkey. Designed for professional translators working in any environment.
+GT4T (Google Translate For Translators) is a translation assistance tool for Windows and macOS that inserts machine translations directly into any application. Professional translators use GT4T to speed up their workflow by getting instant machine translation suggestions that they then post-edit for quality. Supports Google, DeepL, and Microsoft translation APIs.
 
 ---
 
 ## ❌ Problem: GT4T is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Professional Audience** — Specifically designed for professional translation workflows
-- **Paid License** — Requires subscription for full features
-- **Learning Curve** — Terminology management and translation memory setup requires investment
+- **For Translators** — Designed for professional translation workflow; less useful for casual use
+- **API Keys Required** — Translation services require personal API subscriptions
+- **Internet Required** — All translation requires connectivity
+- **Learning Curve** — Keyboard shortcuts and workflow require practice
 
 ---
 
@@ -121,7 +121,7 @@ GT4T (Google Translate for Translators) is a Windows translation tool that integ
 
 ---
 
-**GT4T Free Installer** — GT4T (Google Translate for Translators) is a Windows translation tool that integrates translation memories, terminology management, and machine translation into any application via a global hotkey. Install without internet connection today!
+**GT4T Free Installer** — GT4T (Google Translate For Translators) is a translation assistance tool for Windows and macOS that inserts machine translations directly into any application. Install without internet connection today!
 
 <div align="center">
 
